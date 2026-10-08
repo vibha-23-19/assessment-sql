@@ -1,0 +1,4 @@
+Question -> Justify your constraint choices for at least three columns across two tables. What data integrity   problems would arise if these constraints were not applied?
+
+
+Answer ->

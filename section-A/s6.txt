@@ -1,0 +1,4 @@
+Question: Which database mechanism should have prevented this inconsistency? Explain how COMMIT, ROLLBACK, and SAVEPOINT work together to ensure both operations succeed or neither takes effect.
+
+
+Answer ->

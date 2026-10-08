@@ -1,0 +1,4 @@
+Question: Which SQL clauses and aggregate functions would you use to produce this report? Explain why HAVING must be used here rather than WHERE to filter by aggregate results.
+
+
+Answer ->

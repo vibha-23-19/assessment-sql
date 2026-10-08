@@ -1,0 +1,4 @@
+Question -> Explain why the WHERE clause is essential in each DML statement. What could go wrong with an UPDATE or DELETE executed without a proper WHERE condition?
+
+
+Answer ->

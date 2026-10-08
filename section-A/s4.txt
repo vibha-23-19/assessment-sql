@@ -1,0 +1,4 @@
+Question: Compare INNER JOIN and LEFT JOIN for this query. Which would you use and why? Describe what each join type does to records that have no match in the other table.
+
+
+Answer ->

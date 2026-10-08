@@ -1,0 +1,4 @@
+Question: Justify why a VIEW is preferred over direct table access here. What are two limitations the front-end developer should be aware of when working with this VIEW?
+
+
+Answer -> 
